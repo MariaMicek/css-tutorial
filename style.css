@@ -8,3 +8,27 @@ body{
     margin: 0 auto;
     background-color: #fff;
 }
+#main-navigation{
+    background-color: #181818;
+    padding: 10px;
+}
+#main-navigation ul{
+    text-align: right;
+    margin-right: 10px;
+    list-style-type: none;
+}
+#main-navigation li{
+    margin: 10px;
+    display: inline-block;
+}
+#main-navigation a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 6px;
+}
+#main-navigation a.current{
+    background-color: #8f746c;
+    border-radius: 4px;
+}
