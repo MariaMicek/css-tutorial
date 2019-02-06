@@ -1,0 +1,10 @@
+body{
+    font-family: arial;
+    margin: 0;
+    background-color: #eee;
+}
+#wrapper{
+    width: 980px;
+    margin: 0 auto;
+    background-color: #fff;
+}
